@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyjwt
+redis
+requests
+pydantic
+python-dotenv
+pydantic-settings

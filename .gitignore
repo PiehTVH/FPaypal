@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+.cache
+.pytest_cache/
+*.log
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+*.pyc
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+*~
+
+# Coverage files
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+*.coverage.xml
+*.nyc_output
+
+# Dist files
+dist/
+build/
+egg-info/
+wheels/
+jupyter/
